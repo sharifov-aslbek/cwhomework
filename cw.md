@@ -28,6 +28,3 @@ Languages
 
 [def2]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/200px-Markdown-mark-solid.svg.png
 *********
-![my photo][def3]
-
-[def3]: https://images.app.goo.gl/9czfaiAPQkHJjnoS6
