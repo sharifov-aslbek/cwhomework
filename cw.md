@@ -26,4 +26,4 @@ Languages
 *********
 ![My photo][def2]
 
-[def2]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png
+[def2]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/200px-Markdown-mark-solid.svg.png
