@@ -20,6 +20,10 @@ Languages
 2. Uzbek
 3. Russian
 ******
-[Mychannel][def]
+[My channel][def]
 
 [def]: https://youtube.com/shorts/JXD9c3DZw8o?si=LMmBGR1M-e2H7WPk
+*********
+![My photo][def2]
+
+[def2]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png
